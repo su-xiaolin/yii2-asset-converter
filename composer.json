@@ -19,7 +19,7 @@
         "oyejorge/less.php": "1.7.0.*",
         "richthegeek/phpsass": "1.0.0",
         "leafo/scssphp": "^0.3.0",
-        "leafo/scssphp-compass": "dev-master"
+        "leafo/scssphp-compass": "master"
     },
     "autoload": {
         "psr-0": { "nizsheanez\\assetConverter\\": "" }
