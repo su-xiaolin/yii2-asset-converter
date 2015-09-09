@@ -18,7 +18,7 @@
         "yiisoft/yii2-composer": "2.*",
         "oyejorge/less.php": "1.7.0.*",
         "richthegeek/phpsass": "1.0.0",
-        "leafo/scssphp": "dev-master",
+        "leafo/scssphp": "^0.3.0",
         "leafo/scssphp-compass": "dev-master"
     },
     "autoload": {
